@@ -1,0 +1,6 @@
+tailwind
+.classNameに変数を入れる場合
+OK "text-5xl font-size 8rem " + "bg-lime-400" 空白あり
+NG "text-5xl font-size 8rem" + "bg-lime-400" 空白なし
+.未使用の色を使う場合
+一度実際に反映してからでないと変数で渡しても反映されない
